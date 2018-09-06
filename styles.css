@@ -1,5 +1,6 @@
 body {
     background-color: lightgrey;
+    font-family: 'Roboto Slab', serif;
 }
 
 h1 {
@@ -8,7 +9,10 @@ h1 {
 }
 
 .friend {
-    background-color: bisque;
+    background-color: rgb(39, 145, 172);
+    width: 200px;
+    padding: 2px 2px 2px 2px;
+    margin-left: 5px;
 }
 
 .friend h3 {
